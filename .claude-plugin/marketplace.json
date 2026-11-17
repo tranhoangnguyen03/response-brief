@@ -1,0 +1,5 @@
+{
+  "name": "response-brief",
+  "owner": { "name": "tranhoangnguyen03" },
+  "plugins": [{ "name": "response-brief", "source": "./" }]
+}

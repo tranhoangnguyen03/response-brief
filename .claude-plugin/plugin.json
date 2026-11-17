@@ -1,0 +1,6 @@
+{
+  "name": "response-brief",
+  "version": "0.1.0",
+  "description": "Under each reply: collapsed Heads-up (I/II/III), TLDR and Situation toggles, generated from the cached conversation",
+  "types": "./types/index.d.ts"
+}
